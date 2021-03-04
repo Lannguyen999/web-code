@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+p {
+  font-size: 18px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 30px;
+  font-weight: 600;
+}
+main {
+  width: 100%;
+  margin: 15px auto;
+  background-color: rgb(184, 179, 179);
+}
+#img-div figure {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+#img-div figure img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin: 0 auto;
+}
+#tribute-info {
+  margin: 0px 20px 0px 20px;
+  background: #f0f0f0;
+}
+section ul {
+  text-align: left;
+  list-style: none;
+}
